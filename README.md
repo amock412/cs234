@@ -2,6 +2,8 @@
 
 ## Final Project - Women's Work - A closer look at Wellesley alums
 
+### By Briana Vigil, Panya Tang and Andrea Mock
+
 This Github repository contains all the code used to investigate the paths Wellesley alums took after graduation, with a focus on Computer Science 
 majors and alumns currently working in the tech field. 
 
